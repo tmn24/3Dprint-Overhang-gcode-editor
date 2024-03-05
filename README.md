@@ -7,7 +7,7 @@ This was designed for CURA 5.0 and has its quirks.
 In order to use this you need to:
 1. Slice the model you want to print in CURA
 2. Export the gcode to your computer. 
-3. Run the program
+3. Run the program (OverhangRunner.java)
 4. Input your printer's nozzle diameter
 5. Type M for manual (I didn't make the automatic detection yet)
 7. Go into CURA and use the preview function to see which layer of the model has an overhang
